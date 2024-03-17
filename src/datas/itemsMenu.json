@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "menuType": "Chicken Wings",
+    "name": "Classic Wings",
+    "description": "Seasoned with salt and pepper, allowing the natural flavor of the tender chicken meat.",
+    "price": 199,
+    "thumbnail": "/images/Classic Wings.jpg"
+  },
+  {
+    "id": 2,
+    "menuType": "Chicken Wings",
+    "name": "Buffalo",
+    "description": "Crispy chicken wings tossed in spicy buffalo sauce, served with celery sticks and creamy ranch dressing.",
+    "price": 199,
+    "thumbnail": "/images/buffalo.jpg"
+  },
+  {
+    "id": 3,
+    "menuType": "Chicken Wings",
+    "name": "Garlic Parmesan",
+    "description": "Succulent chicken wings coated in a savory garlic parmesan sauce, garnished with parsley, and served with marinara sauce.",
+    "price": 199,
+    "thumbnail": "/images/garlic.jpg"
+  },
+  {
+    "id": 4,
+    "menuType": "Chicken Wings",
+    "name": "Barbeque",
+    "description": "Smothered in a sweet and smoky barbecue sauce, blend of tomato paste, molasses, vinegar, and spices.",
+    "price": 199,
+    "thumbnail": "/images/BBQ-wings.jpg"
+  },
+  {
+    "id": 5,
+    "menuType": "Chicken Wings",
+    "name": "Honey BBQ",
+    "description": "Tender chicken wings glazed with sweet and tangy barbecue sauce, sprinkled with sesame seeds, and served with blue cheese dressing.",
+    "price": 199,
+    "thumbnail": "/images/Honey-Glazed.jpeg"
+  },
+  {
+    "id": 6,
+    "menuType": "Chicken Wings",
+    "name": "Sweet Chili",
+    "description": "Tossed in a tantalizing sweet chili sauce, accented with hints of garlic, ginger, and soy sauce.",
+    "price": 199,
+    "thumbnail": "/images/Sweet Chili.jpg"
+  },
+  {
+    "id": 7,
+    "menuType": "Chicken Wings",
+    "name": "Honey Lemon",
+    "description": "Coated in a luscious honey lemon glaze, and garnished with zesty lemon zest.",
+    "price": 199,
+    "thumbnail": "/images/Honey Lemon.jpg"
+  },
+  {
+    "id": 8,
+    "menuType": "Chicken Wings",
+    "name": "Terikayi",
+    "description": "Marinated in a sweet and savory sauce made from soy sauce, brown sugar, ginger, garlic, and mirin, delivering a deliciously sticky glaze with an Asian-inspired twist.",
+    "price": 199,
+    "thumbnail": "/images/Teriyaki wings.png"
+  },
+  {
+    "id": 9,
+    "menuType": "Chicken Wings",
+    "name": "Honey Mustard",
+    "description": "Coated in a tangy and sweet honey mustard sauce, made from a combination of honey, Dijon mustard, mayonnaise, and spices.",
+    "price": 199,
+    "thumbnail": "/images/Honey-Mustard.jpg"
+  },
+  {
+    "id": 10,
+    "menuType": "Burger",
+    "name": "Classice Burger",
+    "description": "Juicy beef patty, melted cheddar cheese, crisp lettuce, ripe tomatoes, onions, and tangy pickles, served on a toasted brioche bun.",
+    "price": 99,
+    "thumbnail": "/images/burger.png"
+  },
+  {
+    "id": 11,
+    "menuType": "Burger",
+    "name": "Classic Cheeseburger",
+    "description": "Juicy beef patty topped with melted American cheese, crisp lettuce, ripe tomatoes, onions, pickles, and a dollop of tangy ketchup and mustard, all sandwiched between a soft sesame seed bun.",
+    "price": 119,
+    "thumbnail": "/images/cheeseburger.png"
+  },
+  {
+    "id": 12,
+    "menuType": "Burger",
+    "name": "Veggie Delight",
+    "description": "Grilled portobello mushroom, roasted red peppers, caramelized onions, avocado slices, fresh arugula, and creamy goat cheese.",
+    "price": 129,
+    "thumbnail": "/images/veggie_burger.png"
+  },
+  {
+    "id": 13,
+    "menuType": "Burger",
+    "name": "Double Patty",
+    "description": "two juicy beef patties cooked to perfection and stacked high with layers of melted American cheese, crisp lettuce, ripe tomato slices, crunchy pickles, and sliced onions.",
+    "price": 159,
+    "thumbnail": "/images/double_patty.png"
+  },
+  {
+    "id": 14,
+    "menuType": "Burger",
+    "name": "Signature BBQ Chicken",
+    "description": "Grilled chicken breast smothered in tangy barbecue sauce, topped with crispy bacon, melted pepper jack cheese, and crunchy onion rings on a sesame seed bun.",
+    "price": 139,
+    "thumbnail": "/images/chicken_burger.png"
+  },
+  {
+    "id": 15,
+    "menuType": "Burger",
+    "name": "Bacon BBQ",
+    "description": "Beef patty topped with crispy bacon strips, melted cheddar cheese, caramelized onions, and a generous drizzle of smoky barbecue sauce",
+    "price": 159,
+    "thumbnail": "/images/bacon_burger.png"
+  },
+  {
+    "id": 16,
+    "menuType": "Burger",
+    "name": "Mini Burger Bites",
+    "description": " Tender beef patty seasoned to perfection, topped with a dollop of tangy ketchup, a slice of melted cheese, and a crisp pickle, all nestled between soft, freshly baked mini buns. ",
+    "price": 299,
+    "thumbnail": "/images/mini-burger-bites.png"
+  },
+  {
+    "id": 17,
+    "menuType": "Fries",
+    "name": "Classic Fries",
+    "description": "Crispy on the outside and fluffy on the inside, classic French fries are seasoned with salt and served hot and fresh.",
+    "price": 79,
+    "thumbnail": "images/fries.png"
+  },
+  {
+    "id": 18,
+    "menuType": "Fries",
+    "name": "Curly Fries",
+    "description": "Twist of golden-brown spirals of crispy potato goodness seasoned to perfection with a blend of savory spices.",
+    "price": 79,
+    "thumbnail": "/images/Curly-Fries.jpg"
+  },
+  {
+    "id": 19,
+    "menuType": "Fries",
+    "name": "Crinkle Cut",
+    "description": "Crinkle Cut Fries, featuring thick potato slices with signature crinkle-cut edges.",
+    "price": 79,
+    "thumbnail": "/images/crinkle cuts fries.jpeg"
+  },
+  {
+    "id": 20,
+    "menuType": "Fries",
+    "name": "Wedges",
+    "description": "Thick-cut potato wedges seasoned to perfection and oven-baked to crispy perfection.",
+    "price": 99,
+    "thumbnail": "/images/wedges fries.jpg"
+  },
+  {
+    "id": 21,
+    "menuType": "Fries",
+    "name": "Tater Tots",
+    "description": "Crispy perfection of bite-sized potato nuggets fried to golden brown perfection.",
+    "price": 99,
+    "thumbnail": "/images/tater tots.jpg"
+  },
+  {
+    "id": 22,
+    "menuType": "Fries",
+    "name": "Crisscross Cuts",
+    "description": "Uniquely cut into a crisscross pattern for maximum crispy texture.",
+    "price": 99,
+    "thumbnail": "/images/cris cross fries.webp"
+  },
+  {
+    "id": 23,
+    "menuType": "Nachos",
+    "name": "Classic Nachos",
+    "description": "Crispy tortilla chips topped with melted cheese, jalapeños, diced tomatoes, black olives, and green onions, served with a side of salsa and sour cream for dipping.",
+    "price": 89,
+    "thumbnail": "/images/Classic nachos.jpg"
+  },
+  {
+    "id": 24,
+    "menuType": "Nachos",
+    "name": "Loaded Beef",
+    "description": "Seasoned ground beef, melted cheese, refried beans, diced tomatoes, sliced jalapeños, and a dollop of guacamole and sour cream, offering a satisfying blend of flavors and textures.",
+    "price": 109,
+    "thumbnail": "/images/Loaded Beef Nachos.jpg"
+  },
+  {
+    "id": 25,
+    "menuType": "Nachos",
+    "name": "Chicken Fajita",
+    "description": "Grilled chicken strips seasoned with fajita spices, melted cheese, sautéed bell peppers and onions, diced tomatoes, black beans, and a drizzle of chipotle ranch dressing.",
+    "price": 109,
+    "thumbnail": "/images/chicken-fajita-nachos.jpeg"
+  },
+  {
+    "id": 26,
+    "menuType": "Nachos",
+    "name": "Pulled Pork",
+    "description": "Pulled pork atop crispy tortilla chips, smothered in melted cheese, tangy barbecue sauce, diced onions, jalapeños, and a drizzle of creamy coleslaw dressing.",
+    "price": 109,
+    "thumbnail": "/images/pulled-pork-nachos.jpg"
+  },
+  {
+    "id": 27,
+    "menuType": "Nachos",
+    "name": "Vegetarian",
+    "description": "Topped with black beans, corn, diced tomatoes, bell peppers, onions, sliced olives, and melted cheese.",
+    "price": 99,
+    "thumbnail": "/images/Supreme-Veggie-Nachos.jpg"
+  },
+  {
+    "id": 28,
+    "menuType": "Nachos",
+    "name": "Taco",
+    "description": "Crispy tortilla chips topped with seasoned ground beef or turkey, shredded lettuce, diced tomatoes, black beans, shredded cheese, and a dollop of guacamole and sour cream.",
+    "price": 119,
+    "thumbnail": "/images/Taco Salad nachos.jpg"
+  },
+  {
+    "id": 29,
+    "menuType": "Combo",
+    "name": "Burger and Fries",
+    "description": "Signature Burger, juicy beef patty topped with melted cheese, crisp lettuce, ripe tomato slices, onions, pickles, and a dollop of tangy ketchup and mustard, and a generous serving of our crispy and golden French Fries",
+    "price": 129,
+    "thumbnail": "/images/burger and fries.jpg"
+  },
+  {
+    "id": 30,
+    "menuType": "Combo",
+    "name": "Overload Sides",
+    "description": "Ultimate Trio Platter, where three all-time favorites unite for a feast of epic proportions!",
+    "price": 399,
+    "thumbnail": "/images/Overload combo.jpg"
+  },
+  {
+    "id": 31,
+    "menuType": "Combo",
+    "name": "Impossible Burger",
+    "description": "Whether you're a vegetarian, vegan, or simply looking to reduce your meat consumption, our Impossible Burger is the perfect choice for you.",
+    "price": 399,
+    "thumbnail": "/images/impossible-burger.jpg"
+  },
+  {
+    "id": 32,
+    "menuType": "Combo",
+    "name": "Fries Platter",
+    "description": "Classic favorites or adventurous flavors, our Fries Platter is a feast of crispy goodness that's perfect for sharing or enjoying all to yourself!",
+    "price": 199,
+    "thumbnail": "/images/Fries platter.jpg"
+  },
+  {
+    "id": 33,
+    "menuType": "Combo",
+    "name": "Mini Burger Bites Platter",
+    "description": "Classic favorites burger in bite sizes. Big flavor in every bite!",
+    "price": 299,
+    "thumbnail": "/images/mini-burger-platter.jpg"
+  },
+  {
+    "id": 34,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Choco Frosty",
+    "price": 99,
+    "thumbnail": "images/Choco_frosty.png"
+  },
+  {
+    "id": 35,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Choco Madness",
+    "price": 129,
+    "thumbnail": "/images/Choco_madness.png"
+  },
+  {
+    "id": 36,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Oreo Monster",
+    "price": 129,
+    "thumbnail": "/images/Oreo_monster.png"
+  },
+  {
+    "id": 37,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Kitkat Overload",
+    "price": 129,
+    "thumbnail": "images/Kitkat_Overload.png"
+  },
+  {
+    "id": 38,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Dulce de Leche",
+    "price": 129,
+    "thumbnail": "/images/Dulce_the_Leche.png"
+  },
+  {
+    "id": 39,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Mango Graham",
+    "price": 129,
+    "thumbnail": "/images/Mango-Graham.png"
+  },
+  {
+    "id": 40,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Iced Caramel",
+    "price": 129,
+    "thumbnail": "/images/Iced-Caramel-Macchiato.png"
+  },
+  {
+    "id": 41,
+    "menuType": "Drinks",
+    "drinkType": "Crazy Shakes",
+    "name": "Dark Choco Locco",
+    "price": 129,
+    "thumbnail": "/images/dark_choco.png"
+  },
+  {
+    "id": 42,
+    "menuType": "Drinks",
+    "drinkType": "Soda",
+    "name": "Coke",
+    "price": 50,
+    "thumbnail": "/images/coke.png"
+  },
+  {
+    "id": 43,
+    "menuType": "Drinks",
+    "drinkType": "Soda",
+    "name": "Coke Light",
+    "price": 50,
+    "thumbnail": "/images/coke_light.png"
+  },
+  {
+    "id": 44,
+    "menuType": "Drinks",
+    "drinkType": "Soda",
+    "name": "Coke Zero",
+    "price": 50,
+    "thumbnail": "/images/zero.png"
+  },
+  {
+    "id": 45,
+    "menuType": "Drinks",
+    "drinkType": "Soda",
+    "name": "Royal",
+    "price": 50,
+    "thumbnail": "/images/royal.png"
+  },
+  {
+    "id": 46,
+    "menuType": "Drinks",
+    "drinkType": "Soda",
+    "name": "Sprite",
+    "price": 50,
+    "thumbnail": "/images/sprite.png"
+  },
+  {
+    "id": 47,
+    "menuType": "Drinks",
+    "drinkType": "Soda",
+    "name": "Rootbeer",
+    "price": 50,
+    "thumbnail": "/images/rootbeer.png"
+  },
+  {
+    "id": 48,
+    "menuType": "Drinks",
+    "drinkType": "Juice",
+    "name": "Iced Tea",
+    "price": 50,
+    "thumbnail": "/images/ice_tea.png"
+  },
+  {
+    "id": 49,
+    "menuType": "Drinks",
+    "drinkType": "Juice",
+    "name": "Lemonade",
+    "price": 50,
+    "thumbnail": "images/lemonade.png"
+  },
+  {
+    "id": 50,
+    "menuType": "Drinks",
+    "drinkType": "Juice",
+    "name": "Cranberry",
+    "price": 50,
+    "thumbnail": "/images/cranberry.png"
+  },
+  {
+    "id": 51,
+    "menuType": "Drinks",
+    "drinkType": "Juice",
+    "name": "Strawberry",
+    "price": 50,
+    "thumbnail": "/images/strawberry.png"
+  },
+  {
+    "id": 52,
+    "menuType": "Drinks",
+    "drinkType": "Juice",
+    "name": "Pineaplle",
+    "price": 50,
+    "thumbnail": "/images/pineapple.png"
+  },
+  {
+    "id": 53,
+    "menuType": "Drinks",
+    "drinkType": "Juice",
+    "name": "Grapes",
+    "price": 50,
+    "thumbnail": "/images/garpe_juice.png"
+  },
+  {
+    "id": 54,
+    "menuType": "Drinks",
+    "drinkType": "Smoothies",
+    "name": "Mango",
+    "price": 50,
+    "thumbnail": "/images/mango.png"
+  },
+  {
+    "id": 55,
+    "menuType": "Drinks",
+    "drinkType": "Smoothies",
+    "name": "Strawberry",
+    "price": 50,
+    "thumbnail": "/images/strawberry_shake.png"
+  },
+  {
+    "id": 56,
+    "menuType": "Drinks",
+    "drinkType": "Smoothies",
+    "name": "Kiwi",
+    "price": 50,
+    "thumbnail": "/images/kiwi.png"
+  },
+  {
+    "id": 57,
+    "menuType": "Drinks",
+    "drinkType": "Smoothies",
+    "name": "Watermelon",
+    "price": 50,
+    "thumbnail": "/images/watermelon_shake.png"
+  }
+]
